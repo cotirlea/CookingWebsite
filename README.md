@@ -72,10 +72,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### 'technology used'
 
--UseEffect
--UseState
--React Navigation
--Material UI
--Firebase FireStrore
--Firebase Storage
--Firebase Hosting
+-UseEffect .\
+-UseState .\
+-React Navigation .\
+-Material UI .\
+-Firebase FireStrore .\
+-Firebase Storage .\
+-Firebase Hosting .\
